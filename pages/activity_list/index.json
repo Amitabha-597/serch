@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "SearchBar": "/components/searchBox/index",
+    "Tabcardone": "/pages/Tabcardone/tabItem",
+    "Tabcartwo": "/pages/Tabcardtwo/tabcardtwo"
+
+  },
+  "navigationBarTitleText": "活动管理"
+}

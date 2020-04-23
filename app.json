@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/activity_list/index",
+    "pages/Tabcardone/tabItem",
+    "pages/Tabcardtwo/tabcardtwo"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
